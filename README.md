@@ -1,221 +1,240 @@
-<h1 align="center">Hi 👋, I'm Jawad Ahmad</h1>
-<h3 align="center">AI & Full-Stack Developer | Building Intelligent Solutions with 3+ Years of Experience</h3>
+<div align="center">
+  
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jawad%20Ahmad&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jawad4605&label=Profile%20views&color=0e75b6&style=flat" alt="jawad4605" />
-</p>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Solutions+%F0%9F%A4%96;3%2B+Years+of+Experience+%F0%9F%9A%80;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jawad4605&theme=darkhub&no-frame=true&margin-w=15" alt="jawad4605" />
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jawad4605&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/jawad4605?tab=followers">
+    <img src="https://img.shields.io/github/followers/jawad4605?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers"/>
   </a>
+  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge&logo=checkmarx" alt="Hire Status"/>
 </p>
 
----
+<!-- Animated Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
-### 👨‍💻 About Me
+</div>
 
-I'm an experienced **AI & Full-Stack Developer** specializing in building **AI-powered automation systems**, **custom AI models**, **intelligent chatbots**, and **scalable full-stack applications** that solve real business problems.
+<!-- About Section with Animated GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working on **AI-powered automation systems and intelligent chatbots**
+## 🧑‍💻 About Me
 
-- 🌱 I'm currently learning **Advanced Deep Learning architectures and Cloud-native AI solutions**
+```javascript
+const jawad = {
+    pronouns: "He" | "Him",
+    location: "Pakistan 🇵🇰",
+    currentFocus: "AI-Powered Automation Systems",
+    lifePhilosophy: "Turn Coffee into Intelligent Code ☕🤖",
+    
+    skills: {
+        ai: ["TensorFlow", "PyTorch", "OpenCV", "NLP", "Computer Vision"],
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Python", "FastAPI", "Flask"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "AWS", "Git", "Linux"]
+    },
+    
+    currentlyLearning: ["Advanced Deep Learning", "Cloud-native AI"],
+    funFact: "I debug code in my dreams 💭"
+};
+```
 
-- 👯 I'm looking to collaborate on **AI/ML projects, Full-stack applications, and Open-source contributions**
+<br clear="both">
 
-- 💬 Ask me about **Python, TensorFlow, React, Node.js, Machine Learning, NLP, Computer Vision**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
-- 📫 How to reach me: Check out my **[Portfolio](https://jawad-portfolio-web.vercel.app/)**
+<!-- Trophy Section -->
+<div align="center">
+  
+## 🏆 GitHub Trophies
+  
+<img src="https://github-profile-trophy.vercel.app/?username=jawad4605&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 
-- 📄 Know about my experiences: **[LinkedIn Profile](https://www.linkedin.com/in/jawad-ahmad-23785928a/)**
+</div>
 
-- ⚡ Fun fact: **I turn coffee into intelligent code ☕️🤖**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
----
+<!-- Skills Section -->
+<div align="center">
+  
+## 🎯 Core Expertise
 
-### 🚀 Core Expertise
+</div>
 
-#### **AI & Machine Learning**
-- 🤖 AI Automation & Intelligent Workflows
-- 💬 AI Chatbot Development (NLP-based)
-- 🧠 Custom Machine Learning & Deep Learning Models
-- 👁️ Computer Vision (Image Analysis, Detection, Recognition)
-- 📊 Statistical Analysis & Data-Driven Insights
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  
+### 🤖 AI & Machine Learning
 
-#### **Full-Stack Development**
-- 🌐 Frontend & Backend Web Development
-- 🔌 API Development & System Integrations
-- 🏗️ Scalable Architecture Design
-- 🗄️ Database Management (SQL/NoSQL)
-- ☁️ Cloud Integrations & Deployment
+| Expertise |
+|:---|
+| 🔹 AI Automation & Intelligent Workflows |
+| 🔹 Custom ML & Deep Learning Models |
+| 🔹 NLP-based Chatbot Development |
+| 🔹 Computer Vision & Image Analysis |
+| 🔹 Statistical Analysis & Insights |
 
----
+</td>
+<td width="50%" align="center">
 
-### 🛠️ Languages and Tools
+### 🌐 Full-Stack Development
 
-<p align="left">
+| Expertise |
+|:---|
+| 🔹 Modern Frontend Development |
+| 🔹 Scalable Backend Systems |
+| 🔹 RESTful API Development |
+| 🔹 Database Architecture Design |
+| 🔹 Cloud Deployment & DevOps |
 
-#### **AI & Data Science:**
+</td>
+</tr>
+</table>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
-#### **Frontend Development:**
+<!-- Tech Stack -->
+<div align="center">
+  
+## 🛠️ Tech Arsenal
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-</a>
-
-#### **Backend Development:**
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-</a>
-
-#### **Database:**
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
-</a>
-
-#### **Tools & DevOps:**
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-</a>
-
+### 🧠 AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jawad4605&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="jawad4605" />
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad4605&theme=tokyonight&hide_border=true" alt="jawad4605" />
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawad4605&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jawad4605" />
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+</div>
 
-### 🔥 What I Deliver
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
-✅ **Clean Code** - Maintainable, well-documented, and production-ready  
-✅ **Scalable Architecture** - Built to grow with your business  
-✅ **Tailored Solutions** - Customized to your specific business needs  
-✅ **AI-Powered Innovation** - Leveraging cutting-edge AI technologies  
-✅ **Full-Stack Excellence** - End-to-end development expertise
+<!-- GitHub Stats -->
+<div align="center">
+  
+## 📊 GitHub Analytics
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawad4605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad4605&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
 
-### 🤝 Connect with Me
+<br><br>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jawad-ahmad-23785928a/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawad-ahmad" height="30" width="40" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawad4605&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea" alt="Top Languages"/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawad4605&bg_color=0D1117&color=667eea&line=764ba2&point=fff&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+
+<!-- What I Deliver -->
+<div align="center">
+
+## 🔥 What I Deliver
+
+| ✅ Clean Code | ✅ Scalable Architecture | ✅ Tailored Solutions | ✅ AI Innovation | ✅ Full-Stack |
+|:---:|:---:|:---:|:---:|:---:|
+| Maintainable & Production-Ready | Built to Grow with Your Business | Customized for Your Needs | Cutting-Edge AI Tech | End-to-End Expertise |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<a href="https://www.linkedin.com/in/jawad-ahmad-23785928a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.upwork.com/freelancers/~01a0f6706306d9fb3a" target="blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="jawad-upwork" height="30" width="40" />
+<a href="https://jawad-portfolio-web.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://wa.me/923209641408" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="jawad-whatsapp" height="30" width="40" />
+<a href="https://www.upwork.com/freelancers/~01a0f6706306d9fb3a" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
 </a>
-</p>
+<a href="https://wa.me/923209641408" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
-**📱 WhatsApp:** +92 320 9641408
+<br><br>
 
----
+### 📱 WhatsApp: +92 320 9641408
 
-<p align="center">
-  <b>🌐 Portfolio:</b> <a href="https://jawad-portfolio-web.vercel.app/" target="_blank">jawad-portfolio-web.vercel.app</a>
-</p>
+<br>
 
-<p align="center">
-  <b>📩 Available for short- and long-term projects</b>
-</p>
+<!-- Availability Banner -->
+<img src="https://img.shields.io/badge/📩_Available_for_Short_&_Long_Term_Projects-667eea?style=for-the-badge"/>
 
-<p align="center">
-  <i>💡 Open to collaboration on innovative AI and full-stack projects</i>
-</p>
+<br>
 
----
+<img src="https://img.shields.io/badge/💡_Open_to_Collaboration_on_AI_&_Full--Stack_Projects-764ba2?style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br><br>
+
+<!-- Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
