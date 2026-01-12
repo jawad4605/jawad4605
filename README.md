@@ -23,7 +23,7 @@
 
 
 
-``js
+```js
 const jawad = {
   role: "AI & Full-Stack Developer",
   experience: "3+ Years",
@@ -38,7 +38,7 @@ const jawad = {
 * 🎯 Business-driven, production-ready solutions
 
 <br clear="right"/>
-
+```
 ---
 
 ## 🚀 Core Expertise
@@ -177,5 +177,5 @@ const jawad = {
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:764ba2,100:667eea"/>
-```
+
 
