@@ -259,8 +259,3 @@ Image analysis & object detection
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:764ba2,100:667eea"/>
 ```
-
-* 🎨 Ultra-minimal dark version
-* 🧑‍💼 Freelancer-focused version
-
-Just say the word 😎
