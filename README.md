@@ -20,7 +20,7 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```js
+
 const jawad = {
   role: "AI & Full-Stack Developer",
   experience: "3+ Years",
