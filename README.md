@@ -193,7 +193,12 @@ I'm an experienced **AI & Full-Stack Developer** specializing in building **AI-p
 <a href="https://www.upwork.com/freelancers/~01a0f6706306d9fb3a" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="jawad-upwork" height="30" width="40" />
 </a>
+<a href="https://wa.me/923209641408" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="jawad-whatsapp" height="30" width="40" />
+</a>
 </p>
+
+**📱 WhatsApp:** +92 320 9641408
 
 ---
 
