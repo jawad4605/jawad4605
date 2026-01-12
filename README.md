@@ -46,36 +46,38 @@ const jawad = {
 
 ## 🚀 Core Expertise
 
-<div align="center">
-
-<table width="95%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%" valign="top">
 
 ### 🤖 AI & Machine Learning
 
-✔ AI automation pipelines
-✔ Custom ML & Deep Learning models
-✔ NLP chatbots & AI assistants
-✔ Computer vision systems
-✔ Data-driven decision engines
+<ul align="left">
+<li>✅ AI automation pipelines</li>
+<li>✅ Custom ML & Deep Learning models</li>
+<li>✅ NLP chatbots & AI assistants</li>
+<li>✅ Computer vision systems</li>
+<li>✅ Data-driven decision engines</li>
+</ul>
 
 </td>
-<td width="50%" align="center">
+
+<td align="center" width="50%" valign="top">
 
 ### 🌐 Full-Stack Engineering
 
-✔ React & Next.js applications
-✔ FastAPI & Node.js backends
-✔ REST & API-first architecture
-✔ Database design & optimization
-✔ Cloud deployment & DevOps
+<ul align="left">
+<li>✅ React & Next.js applications</li>
+<li>✅ FastAPI & Node.js backends</li>
+<li>✅ REST & API-first architecture</li>
+<li>✅ Database design & optimization</li>
+<li>✅ Cloud deployment & DevOps</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
-</div>
 
 ---
 
