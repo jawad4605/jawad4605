@@ -1,16 +1,15 @@
-
 <div align="center">
 
 <!-- HERO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,100:764ba2&text=Jawad%20Ahmad&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20Developer&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=AI-Powered+Automation+Specialist;Scalable+Full-Stack+Applications;Turning+Ideas+Into+Production+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=AI-Powered+Automation+Engineer;Scalable+Full-Stack+Solutions;Production-Ready+Systems"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=jawad4605&style=for-the-badge&color=667eea"/>
 <img src="https://img.shields.io/github/followers/jawad4605?style=for-the-badge&color=764ba2"/>
-<img src="https://img.shields.io/badge/Open%20For%20Work-Yes-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-22c55e?style=for-the-badge"/>
 
 </div>
 
@@ -18,27 +17,31 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-
-
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```js
 const jawad = {
-  role: "AI & Full-Stack Developer",
+  title: "AI & Full-Stack Developer",
   experience: "3+ Years",
   location: "Pakistan 🇵🇰",
-  focus: ["AI Automation", "Scalable Systems", "Modern Web Apps"],
-  mindset: "Build. Optimize. Scale."
+  focus: [
+    "AI Automation",
+    "Scalable Systems",
+    "Modern Web Applications"
+  ],
+  philosophy: "Build systems that scale, not demos."
 };
+````
 
-* 🤖 AI Automation & Intelligent Workflows
-* 🌐 Modern, scalable full-stack applications
-* ⚡ Performance-focused backend systems
+### What I Do Best
+
+* 🤖 AI-powered automation & intelligent workflows
+* 🌐 High-performance full-stack applications
+* ⚡ Fast, scalable backend systems
 * 🎯 Business-driven, production-ready solutions
 
 <br clear="right"/>
-```
+
 ---
 
 ## 🚀 Core Expertise
@@ -51,22 +54,22 @@ const jawad = {
 
 ### 🤖 AI & Machine Learning
 
-* AI automation pipelines
-* Custom ML & Deep Learning models
-* NLP chatbots & AI assistants
-* Computer vision systems
-* Data analysis & insights
+✔ AI automation pipelines
+✔ Custom ML & Deep Learning models
+✔ NLP chatbots & AI assistants
+✔ Computer vision systems
+✔ Data-driven decision engines
 
 </td>
 <td width="50%" align="center">
 
-### 🌐 Full-Stack Development
+### 🌐 Full-Stack Engineering
 
-* React & Next.js apps
-* FastAPI & Node.js backends
-* REST & API-first systems
-* Database design & optimization
-* Cloud deployment & DevOps
+✔ React & Next.js applications
+✔ FastAPI & Node.js backends
+✔ REST & API-first architecture
+✔ Database design & optimization
+✔ Cloud deployment & DevOps
 
 </td>
 </tr>
@@ -76,12 +79,12 @@ const jawad = {
 
 ---
 
-## 🧠 Tech Stack (Expanded)
+## 🧠 Tech Stack
 
 ### 🔬 AI & Data
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
@@ -96,7 +99,7 @@ const jawad = {
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
 </p>
 
@@ -113,37 +116,115 @@ const jawad = {
 
 ---
 
-## 📊 GitHub Stats (FIXED ✅)
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jawad4605&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<table width="95%">
+<tr>
+<td width="50%" valign="top">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=jawad4605&theme=tokyonight&hide_border=true"/>
+### 🤖 AI Automation Platform
 
-<br/><br/>
+AI-powered workflow automation system
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad4605&layout=compact&theme=tokyonight&hide_border=true"/>
+* Intelligent task automation
+* NLP-driven decision engine
+* Scalable API architecture
+
+**Tech:** Python, FastAPI, PostgreSQL, Docker
+🔒 *Private Client Project*
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AI Chatbot & Assistant
+
+Smart conversational AI for business support
+
+* Context-aware responses
+* Multi-intent NLP handling
+* Secure authentication
+
+**Tech:** Python, TensorFlow, FastAPI, React
+🔒 *Private Client Project*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack SaaS Platform
+
+Scalable SaaS web application
+
+* Role-based access control
+* Optimized database queries
+* Cloud deployment
+
+**Tech:** Next.js, Node.js, PostgreSQL, AWS
+🚧 *In Progress*
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision System
+
+Image analysis & object detection
+
+* Real-time processing
+* Model optimization
+* Production inference
+
+**Tech:** OpenCV, PyTorch, NumPy
+🧪 *Research / Experimental*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 What I Deliver
+## 🧠 AI Project Highlights
 
-<table width="100%">
-<tr align="center">
-<td>✅ Clean Code<br/><sub>Production-ready</sub></td>
-<td>📈 Scalable Systems<br/><sub>Future-proof</sub></td>
-<td>🎯 Custom Solutions<br/><sub>Client-focused</sub></td>
-<td>🤖 AI Innovation<br/><sub>Smart automation</sub></td>
-<td>🌐 Full Stack<br/><sub>End-to-end</sub></td>
-</tr>
-</table>
+* ✅ Reduced manual workflows by **60%+** using AI automation
+* ✅ Built NLP chatbots for real-world customer support
+* ✅ Developed production-ready computer vision pipelines
+* ✅ Optimized ML models for performance & scalability
+* ✅ Deployed AI systems into live environments
 
 ---
 
-## 🤝 Let’s Connect (Expanded)
+## 📊 GitHub Stats (Stable)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jawad4605&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad4605&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+
+</div>
+
+---
+
+## 🏆 Professional Strengths
+
+* ✅ Clean, maintainable code
+* 📈 Scalable architecture
+* ⚡ Performance-first mindset
+* 🤖 AI-driven problem solving
+* 🌐 End-to-end system ownership
+
+---
+
+## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -177,5 +258,9 @@ const jawad = {
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:764ba2,100:667eea"/>
+```
 
+* 🎨 Ultra-minimal dark version
+* 🧑‍💼 Freelancer-focused version
 
+Just say the word 😎
