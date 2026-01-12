@@ -202,19 +202,19 @@ Image analysis & object detection
 
 ---
 
-## 📊 GitHub Stats (Guaranteed Stable)
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://img.shields.io/github/stars/jawad4605?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/followers/jawad4605?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/repos/jawad4605?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/jawad4605/jawad4605?style=flat-square"/>
-<img src="https://img.shields.io/github/languages/count/jawad4605?style=flat-square"/>
-<img src="https://img.shields.io/github/languages/top/jawad4605?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/github/stars/jawad4605?style=for-the-badge&logo=github&label=Stars"/>
+<img src="https://img.shields.io/github/followers/jawad4605?style=for-the-badge&logo=github&label=Followers"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/last-commit/jawad4605/jawad4605?style=flat-square&label=Last%20Commit"/>
+<img src="https://img.shields.io/github/commit-activity/m/jawad4605/jawad4605?style=flat-square&label=Commits%20per%20Month"/>
+
+</div>
 
 ---
 
