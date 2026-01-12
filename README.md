@@ -22,7 +22,8 @@
 
 
 
-js
+
+``js
 const jawad = {
   role: "AI & Full-Stack Developer",
   experience: "3+ Years",
